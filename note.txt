@@ -1,0 +1,4 @@
+note:
+
+- Inscription [nom, prenom, email, mdp, mdp-confirm, pays, langue] -> bdd -> connexion.php
+- Connexion [email, mdp] -> page custom info utilisateur
